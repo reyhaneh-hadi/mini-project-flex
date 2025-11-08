@@ -23,7 +23,7 @@ The page includes navigation, hero section, feature sections, styled cards, and 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/reyhaneh-hadi/mini-project-flex.git
 ```
 
 Open `index.html` in any browser.
